@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 export default function Home() {
   return (
-    <div className="container-fluid home" path="">
+    <div className="container-fluid home" id="home" >
       <div className="roww">
         <div className="left">
           <div className="social-media-icons">
